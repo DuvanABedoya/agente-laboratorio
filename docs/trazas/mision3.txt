@@ -1,0 +1,8 @@
+=== Agente del laboratorio iniciado en API (gemini-3.5-flash-lite) ===
+
+¿Qué deseas consultar?: Quiero reservar un puesto para hoy a las 10 de la noche (22:00).
+
+--- Vuelta 1 ---
+[Modelo]: FINAL: El laboratorio está cerrado a las 22:00. Nuestro horario de atención es de 06:00 a 20:00.
+
+[RESPUESTA FINAL]: El laboratorio está cerrado a las 22:00. Nuestro horario de atención es de 06:00 a 20:00.
