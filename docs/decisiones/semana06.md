@@ -1,6 +1,6 @@
 # Decisiones de arquitectura: El agente del laboratorio de cómputo
 
-**Equipo:** [Nombre del equipo] — Duvan Andrés Bedoya Rengifo  
+**Equipo:** Individual — Duvan Andrés Bedoya Rengifo  
 **Ubicación del script:** `scripts/agente_laboratorio.py`  
 **Proveedor y modelo usados en las pruebas:** Google Gemini, `gemini-3.5-flash-lite` (endpoint compatible con OpenAI)
 
